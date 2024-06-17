@@ -8,6 +8,7 @@ Techonlogy used :
 2. CSS
 3. Javascript
 
-4. Demo screenshots :
-5. ![Uploading ss1.png…]()
+ Demo screenshots :
+ ![ss1](https://github.com/aditya7843/Handcraft_Shop_Website/assets/121948042/eeaed044-69bd-46dc-95c6-3dc56af6af57)
+
 
